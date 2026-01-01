@@ -4,7 +4,7 @@ Developer with a strong interest in Embedded Systems and building innovative pro
 
 I like projects where hardware and software meet.
 
-#Tech stack
+**Tech stack**
 
 Languages: C/C++,Java
 
