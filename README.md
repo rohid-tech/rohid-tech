@@ -1,12 +1,17 @@
 ## Hi there 👋
 
 Developer with a strong interest in Embedded Systems and building innovative projects.
+
 I like projects where hardware and software meet.
 
 #Tech stack
+
 Languages: C/C++,Java
+
 Tools: Visual Studio Code, KiCad
+
 MCUs: ESP32,ATmega-Series, Pico-Series
+
 Learning: Javascript, Node.js,Linux
 <!--
 **rohid-tech/rohid-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
